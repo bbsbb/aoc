@@ -4,3 +4,4 @@
 - Day 2 [Haskell]
 - Day 3 [Clojure]
 - Day 4 [Javascript]
+- Day 5 [Python]
