@@ -5,3 +5,4 @@
 - Day 3 [Clojure]
 - Day 4 [Javascript]
 - Day 5 [Python]
+- Day 6 [PHP]
