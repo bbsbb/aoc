@@ -6,3 +6,4 @@
 - Day 4 [Javascript]
 - Day 5 [Python]
 - Day 6 [PHP]
+- Day 7 [Go]
