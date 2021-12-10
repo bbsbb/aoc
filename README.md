@@ -9,3 +9,4 @@
 - Day 7 [Go]
 - Day 8 [Ruby]
 - Day 9 [Scala]
+- Day 10 [Julia]
