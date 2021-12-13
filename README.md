@@ -11,4 +11,5 @@
 - Day 9 [Scala]
 - Day 10 [Julia]
 - Day 11 [Lua]
-- Day 11 [Rust]
+- Day 12 [Rust]
+- Day 13 [Elixir]
