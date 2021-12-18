@@ -1,4 +1,4 @@
--(ns playground-clj.curve)
+(ns playground-clj.curve)
 
 (defn in-area? [{:keys [x y]} {:keys [n w s e]}]
   (and (<= w x e)
