@@ -1,6 +1,7 @@
 # Advent of code 2022 - Different language every day.
 - Day 1 [Clojure]
 - Day 2 [Haskell]
+- Day 3 [Typescript] (allegedly)
 
 
 # Advent of code 2021 - Different language every day.
