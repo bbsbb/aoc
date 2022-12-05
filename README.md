@@ -2,7 +2,8 @@
 - Day 1 [Clojure]
 - Day 2 [Haskell]
 - Day 3 [Typescript] (allegedly)
-
+- Day 4 [Racket]
+- Day 5 [Python] (parse the input, day)
 
 # Advent of code 2021 - Different language every day.
 
