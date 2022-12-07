@@ -5,6 +5,7 @@
 - Day 4 [Racket]
 - Day 5 [Python] (parse the input, day)
 - Day 6 [PHP]
+- Day 7 [Ruby]
 
 # Advent of code 2021 - Different language every day.
 
