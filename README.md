@@ -10,6 +10,7 @@
 - Day 9  [Clojure]
 - Day 10 [Rust]
 - Day 11 [Clojure]
+- Day 12 [Scala]
 
 # Advent of code 2021 - Different language every day.
 
